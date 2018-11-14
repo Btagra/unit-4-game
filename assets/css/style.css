@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: url("../images/wheat.png");
+}
+
+.card {
+    background: cyan;
+    color: navy;
+}
+
+.score {
+    background: darkolivegreen;
+    width: 50%;
+    padding: 10px;
+}
+
+.scoreDisplay{
+    background: darkolivegreen;
+    padding: 10px 10px 40px 10px;
+}
